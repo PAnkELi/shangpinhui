@@ -1,0 +1,41 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "userAddressList": [
+            {
+                "id": 33,
+                "userAddress": "223333",
+                "userId": 2,
+                "provinceId": 1,
+                "consignee": "张三",
+                "phoneNum": "13355556666",
+                "isDefault": "1",
+                "regionId": 1,
+                "fullAddress": "山西省太原市小店区太原南火车站"
+            },
+            {
+                "id": 49,
+                "userAddress": "昌平区北七家宏福苑南一区xx号xx单元1198",
+                "userId": 2,
+                "provinceId": 1,
+                "consignee": "王五",
+                "phoneNum": "18101085318",
+                "isDefault": "0",
+                "regionId": 1,
+                "fullAddress": "北京昌平区北七家宏福苑南一区xx号xx单元1198"
+            },
+            {
+                "id": 72,
+                "userAddress": "北七家镇宏福苑南二区花筑公寓4楼",
+                "userId": 2,
+                "provinceId": 1,
+                "consignee": "赵四",
+                "phoneNum": "18100008888",
+                "isDefault": "0",
+                "regionId": 1,
+                "fullAddress": "北京北七家镇宏福苑南二区花筑公寓4楼"
+            }
+        ]
+    }
+}
